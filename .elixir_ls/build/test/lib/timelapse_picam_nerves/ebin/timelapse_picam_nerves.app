@@ -1,9 +1,0 @@
-{application,timelapse_picam_nerves,
-             [{applications,[kernel,stdlib,elixir,logger,runtime_tools,
-                             toolshed,ring_logger,shoehorn,httpoison,picam]},
-              {description,"timelapse_picam_nerves"},
-              {modules,['Elixir.TimelapsePicamNerves',
-                        'Elixir.TimelapsePicamNerves.Application']},
-              {registered,[]},
-              {vsn,"0.1.0"},
-              {mod,{'Elixir.TimelapsePicamNerves.Application',[]}}]}.
